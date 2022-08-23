@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Classroom-Pair-Generator/static/css/main.073c9b0a.css",
+    "main.js": "/Classroom-Pair-Generator/static/js/main.71786ffa.js",
+    "static/js/787.86302f42.chunk.js": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js",
+    "static/media/logo.svg": "/Classroom-Pair-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Classroom-Pair-Generator/index.html",
+    "main.073c9b0a.css.map": "/Classroom-Pair-Generator/static/css/main.073c9b0a.css.map",
+    "main.71786ffa.js.map": "/Classroom-Pair-Generator/static/js/main.71786ffa.js.map",
+    "787.86302f42.chunk.js.map": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.71786ffa.js"
+  ]
+}
