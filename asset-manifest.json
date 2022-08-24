@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/Classroom-Pair-Generator/static/css/main.073c9b0a.css",
-    "main.js": "/Classroom-Pair-Generator/static/js/main.71786ffa.js",
+    "main.css": "/Classroom-Pair-Generator/static/css/main.573a737c.css",
+    "main.js": "/Classroom-Pair-Generator/static/js/main.18fe09ae.js",
     "static/js/787.86302f42.chunk.js": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js",
-    "static/media/logo.svg": "/Classroom-Pair-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/chloe.jpg": "/Classroom-Pair-Generator/static/media/chloe.e27f6c48f892a67aa568.jpg",
+    "static/media/christian.jpg": "/Classroom-Pair-Generator/static/media/christian.8798515a2e3772d47769.jpg",
+    "static/media/ruby.jpg": "/Classroom-Pair-Generator/static/media/ruby.e94a96b918042e2a4401.jpg",
+    "static/media/luna.jpg": "/Classroom-Pair-Generator/static/media/luna.57a69b7dbb1154f934a4.jpg",
+    "static/media/valeria.jpg": "/Classroom-Pair-Generator/static/media/valeria.473e61b3fed4969bf5b3.jpg",
+    "static/media/joseph.jpg": "/Classroom-Pair-Generator/static/media/joseph.4169b2cf22dac4243750.jpg",
+    "static/media/andrew.jpg": "/Classroom-Pair-Generator/static/media/andrew.89e85719de7abeea48f4.jpg",
+    "static/media/ella.jpg": "/Classroom-Pair-Generator/static/media/ella.8c510f1f63f2da606290.jpg",
+    "static/media/dominic.jpg": "/Classroom-Pair-Generator/static/media/dominic.b6626aca44b4d9303678.jpg",
+    "static/media/alana.jpg": "/Classroom-Pair-Generator/static/media/alana.a47ff3a69422790f3087.jpg",
+    "static/media/axel.jpg": "/Classroom-Pair-Generator/static/media/axel.f0617126ce630b12efef.jpg",
+    "static/media/lily.jpg": "/Classroom-Pair-Generator/static/media/lily.8f2f344dce644c4c074c.jpg",
+    "static/media/sofia.jpg": "/Classroom-Pair-Generator/static/media/sofia.1a6028f9f4cafd3a5681.jpg",
+    "static/media/maverick.jpg": "/Classroom-Pair-Generator/static/media/maverick.a88c2cf9d7b6ecf2520b.jpg",
+    "static/media/cameron.jpg": "/Classroom-Pair-Generator/static/media/cameron.42a14df233a71ece3d83.jpg",
+    "static/media/logan.jpg": "/Classroom-Pair-Generator/static/media/logan.c28a2b2a623348911429.jpg",
     "index.html": "/Classroom-Pair-Generator/index.html",
-    "main.073c9b0a.css.map": "/Classroom-Pair-Generator/static/css/main.073c9b0a.css.map",
-    "main.71786ffa.js.map": "/Classroom-Pair-Generator/static/js/main.71786ffa.js.map",
+    "main.573a737c.css.map": "/Classroom-Pair-Generator/static/css/main.573a737c.css.map",
+    "main.18fe09ae.js.map": "/Classroom-Pair-Generator/static/js/main.18fe09ae.js.map",
     "787.86302f42.chunk.js.map": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.71786ffa.js"
+    "static/css/main.573a737c.css",
+    "static/js/main.18fe09ae.js"
   ]
 }
