@@ -1,38 +1,76 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.generator_button {
+  font-size: 18px;
+  background-color: lightgray;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header {
+  padding-left: 12px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.class {
+  width: 100%;
+  height: 80%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  justify-content: space-evenly;
 }
 
-.App-link {
-  color: #61dafb;
+.half {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: space-evenly;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.group1 {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: space-evenly;
+  border-style: solid;
+  border-width: thick;
+}
+
+.group2 {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: space-evenly;
+  border-style: solid;
+  border-width: thick;
+}
+
+.group1:nth-child(odd) {
+  border-color: blue;
+}
+
+.group1:nth-child(even) {
+  border-color: orange;
+}
+
+.group2:nth-child(odd) {
+  border-color: orange;
+}
+
+.group2:nth-child(even) {
+  border-color: blue;
+}
+
+.student {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-evenly;
+}
+
+img {
+  width: 100%;
+  transform: scale(0.9);
 }
