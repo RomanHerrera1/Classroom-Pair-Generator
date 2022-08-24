@@ -1,6 +1,7 @@
 import './App.css';
 import Class from './Class';
 import {useState} from 'react';
+import kimi from "./images/kimi.png"
 
 const herrera_class = [
     {
@@ -120,10 +121,12 @@ function App() {
                 <select value={numStudentsInGroups} onChange={e => setNumStudentsInGroups(parseInt(e.target.value))}>
                     {valid_group_sizes.map(size => <option key={size}>{size}</option>)}
                 </select>
-                <br/>
+                <br/><br/>
                 <button className="generator_button" onClick={() => generateNewPairings()}>Generate new pairings</button>
             </div>
+            <br/><br/>
             <hr/>
+            {groupings.length > 0 ? null : <img className="teacher" src={kimi} alt="Kimi"/>}
             <Class groupings={groupings}/>
         </div>
     );
