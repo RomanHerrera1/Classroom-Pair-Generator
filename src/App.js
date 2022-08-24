@@ -44,7 +44,7 @@ const herrera_class = [
         id: 7
     },
     {
-        name: "Joesph",
+        name: "Joseph",
         img: "./images/joseph.jpg",
         id: 8
     },
