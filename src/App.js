@@ -1,90 +1,116 @@
 import './App.css';
 import Class from './Class';
 import {useState} from 'react';
-import kimi from "./images/kimi.png"
+import kimi from "./teacher/kimi.png"
 
-const herrera_class = [
-    {
-        name: "Alana",
-        img: "./images/alana.jpg",
-        id: 0
-    },
-    {
-        name: "Andrew",
-        img: "./images/andrew.jpg",
-        id: 1
-    },
-    {
-        name: "Axel",
-        img: "./images/axel.jpg",
-        id: 2
-    },
-    {
-        name: "Cameron",
-        img: "./images/cameron.jpg",
-        id: 3
-    },
-    {
-        name: "Chloe",
-        img: "./images/chloe.jpg",
-        id: 4
-    },
-    {
-        name: "Christian",
-        img: "./images/christian.jpg",
-        id: 5
-    },
-    {
-        name: "Dominic",
-        img: "./images/dominic.jpg",
-        id: 6
-    },
-    {
-        name: "Ella",
-        img: "./images/ella.jpg",
-        id: 7
-    },
-    {
-        name: "Joseph",
-        img: "./images/joseph.jpg",
-        id: 8
-    },
-    {
-        name: "Lily",
-        img: "./images/lily.jpg",
-        id: 9
-    },
-    {
-        name: "Logan",
-        img: "./images/logan.jpg",
-        id: 10
-    },
-    {
-        name: "Luna",
-        img: "./images/luna.jpg",
-        id: 11
-    },
-    {
-        name: "Maverick",
-        img: "./images/maverick.jpg",
-        id: 12
-    },
-    {
-        name: "Ruby",
-        img: "./images/ruby.jpg",
-        id: 13
-    },
-    {
-        name: "Sofia",
-        img: "./images/sofia.jpg",
-        id: 14
-    },
-    {
-        name: "Valeria",
-        img: "./images/valeria.jpg",
-        id: 15
-    },
-]
+const imagePaths = [
+    './images/aria.jpeg',
+    './images/chase.jpeg',
+    './images/ela.jpeg',
+    './images/elena.jpeg',
+    './images/emma.jpeg',
+    './images/frank.jpeg',
+    './images/harper.jpeg',
+    './images/jango.jpeg',
+    './images/kayla.jpeg',
+    './images/kekoa.jpeg',
+    './images/madison.jpeg',
+    './images/marcelo.jpeg',
+    './images/margeaux.jpeg',
+    './images/mia.jpeg',
+    './images/nate.jpeg',
+    './images/rajveer.jpeg',
+    './images/robert.jpeg',
+  ];
+
+const herrera_class = imagePaths.map((path, index) => ({
+    name: path.split('/').pop().split('.')[0],
+    img: path,
+    id: index,
+  }));
+
+// const herrera_class = [
+//     {
+//         name: "Alana",
+//         img: "./images/alana.jpg",
+//         id: 0
+//     },
+//     {
+//         name: "Andrew",
+//         img: "./images/andrew.jpg",
+//         id: 1
+//     },
+//     {
+//         name: "Axel",
+//         img: "./images/axel.jpg",
+//         id: 2
+//     },
+//     {
+//         name: "Cameron",
+//         img: "./images/cameron.jpg",
+//         id: 3
+//     },
+//     {
+//         name: "Chloe",
+//         img: "./images/chloe.jpg",
+//         id: 4
+//     },
+//     {
+//         name: "Christian",
+//         img: "./images/christian.jpg",
+//         id: 5
+//     },
+//     {
+//         name: "Dominic",
+//         img: "./images/dominic.jpg",
+//         id: 6
+//     },
+//     {
+//         name: "Ella",
+//         img: "./images/ella.jpg",
+//         id: 7
+//     },
+//     {
+//         name: "Joseph",
+//         img: "./images/joseph.jpg",
+//         id: 8
+//     },
+//     {
+//         name: "Lily",
+//         img: "./images/lily.jpg",
+//         id: 9
+//     },
+//     {
+//         name: "Logan",
+//         img: "./images/logan.jpg",
+//         id: 10
+//     },
+//     {
+//         name: "Luna",
+//         img: "./images/luna.jpg",
+//         id: 11
+//     },
+//     {
+//         name: "Maverick",
+//         img: "./images/maverick.jpg",
+//         id: 12
+//     },
+//     {
+//         name: "Ruby",
+//         img: "./images/ruby.jpg",
+//         id: 13
+//     },
+//     {
+//         name: "Sofia",
+//         img: "./images/sofia.jpg",
+//         id: 14
+//     },
+//     {
+//         name: "Valeria",
+//         img: "./images/valeria.jpg",
+//         id: 15
+//     },
+// ]
 
 function App() {
     const [groupings, setGroupings] = useState([]);
