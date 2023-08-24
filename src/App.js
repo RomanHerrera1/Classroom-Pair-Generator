@@ -8,6 +8,7 @@ function capitalizeFirstLetter(string) {
   }
 
 const imagePaths = [
+    './images/anthony.jpg',
     './images/aria.jpeg',
     './images/chase.jpeg',
     './images/ela.jpeg',
