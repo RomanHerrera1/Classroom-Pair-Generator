@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Classroom-Pair-Generator/static/css/main.32dd306b.css",
-    "main.js": "/Classroom-Pair-Generator/static/js/main.0cc2008d.js",
+    "main.js": "/Classroom-Pair-Generator/static/js/main.801f0b80.js",
     "static/js/787.86302f42.chunk.js": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js",
     "static/media/kimi.png": "/Classroom-Pair-Generator/static/media/kimi.e0521f6b42a1f30be8f7.png",
     "static/media/harper.jpeg": "/Classroom-Pair-Generator/static/media/harper.6b226bac86d87d4458f7.jpeg",
@@ -26,6 +26,7 @@
     "static/media/ruby.jpg": "/Classroom-Pair-Generator/static/media/ruby.e94a96b918042e2a4401.jpg",
     "static/media/luna.jpg": "/Classroom-Pair-Generator/static/media/luna.57a69b7dbb1154f934a4.jpg",
     "static/media/valeria.jpg": "/Classroom-Pair-Generator/static/media/valeria.473e61b3fed4969bf5b3.jpg",
+    "static/media/anthony.jpg": "/Classroom-Pair-Generator/static/media/anthony.719bc2a249641eaa9602.jpg",
     "static/media/joseph.jpg": "/Classroom-Pair-Generator/static/media/joseph.4169b2cf22dac4243750.jpg",
     "static/media/andrew.jpg": "/Classroom-Pair-Generator/static/media/andrew.89e85719de7abeea48f4.jpg",
     "static/media/ella.jpg": "/Classroom-Pair-Generator/static/media/ella.8c510f1f63f2da606290.jpg",
@@ -39,11 +40,11 @@
     "static/media/logan.jpg": "/Classroom-Pair-Generator/static/media/logan.c28a2b2a623348911429.jpg",
     "index.html": "/Classroom-Pair-Generator/index.html",
     "main.32dd306b.css.map": "/Classroom-Pair-Generator/static/css/main.32dd306b.css.map",
-    "main.0cc2008d.js.map": "/Classroom-Pair-Generator/static/js/main.0cc2008d.js.map",
+    "main.801f0b80.js.map": "/Classroom-Pair-Generator/static/js/main.801f0b80.js.map",
     "787.86302f42.chunk.js.map": "/Classroom-Pair-Generator/static/js/787.86302f42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32dd306b.css",
-    "static/js/main.0cc2008d.js"
+    "static/js/main.801f0b80.js"
   ]
 }
