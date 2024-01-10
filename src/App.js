@@ -26,6 +26,7 @@ const imagePaths = [
     './images/nate.jpeg',
     './images/rajveer.jpeg',
     './images/robert.jpeg',
+    './images/oliver.jpg'
   ];
 
 const herrera_class = imagePaths.map((path, index) => ({

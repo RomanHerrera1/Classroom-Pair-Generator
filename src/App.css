@@ -71,7 +71,7 @@ img {
 }
 
 .teacher {
-  animation: teacher-spin 2s infinite linear;
+  animation: teacher-spin 3s infinite linear;
   width: 500px;
   position: absolute;
   left: calc(50% - 250px);
