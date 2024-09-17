@@ -8,25 +8,24 @@ function capitalizeFirstLetter(string) {
   }
 
 const imagePaths = [
-    './images/anthony.jpg',
-    './images/aria.jpeg',
-    './images/chase.jpeg',
-    './images/ela.jpeg',
-    './images/elena.jpeg',
-    './images/emma.jpeg',
-    './images/frank.jpeg',
-    './images/harper.jpeg',
-    './images/jango.jpeg',
-    './images/kayla.jpeg',
-    './images/kekoa.jpeg',
-    './images/madison.jpeg',
-    './images/marcelo.jpeg',
-    './images/margeaux.jpeg',
-    './images/mia.jpeg',
-    './images/nate.jpeg',
-    './images/rajveer.jpeg',
-    './images/robert.jpeg',
-    './images/oliver.jpg'
+    './images/alisa.jpg',
+    './images/alivia.jpg',
+    './images/amari.jpg',
+    './images/amelia.jpg',
+    './images/benjamin.jpg',
+    './images/elijah.jpg',
+    './images/evelyn.jpg',
+    './images/hudson.jpg',
+    './images/jacoby.jpg',
+    './images/jenna.jpg',
+    './images/karter.jpg',
+    './images/kenzie.jpg',
+    './images/lea.jpg',
+    './images/lorenzo.jpg',
+    './images/mia.jpg',
+    './images/mila.jpg',
+    './images/regina.jpg',
+    './images/tommy.jpg',
   ];
 
 const herrera_class = imagePaths.map((path, index) => ({
