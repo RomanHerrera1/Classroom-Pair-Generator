@@ -21,7 +21,6 @@ const imagePaths = [
     './images/jenna.jpg',
     './images/karter.jpg',
     './images/kenzie.jpg',
-    './images/lea.jpg',
     './images/lorenzo.jpg',
     './images/mia.jpg',
     './images/mila.jpg',
