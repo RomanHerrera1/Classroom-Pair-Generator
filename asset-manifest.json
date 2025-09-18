@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Classroom-Pair-Generator/static/css/main.a6e44604.css",
-    "main.js": "/Classroom-Pair-Generator/static/js/main.f357d917.js",
+    "main.js": "/Classroom-Pair-Generator/static/js/main.7052acc5.js",
     "static/js/787.aa6b9366.chunk.js": "/Classroom-Pair-Generator/static/js/787.aa6b9366.chunk.js",
     "static/media/kimi.png": "/Classroom-Pair-Generator/static/media/kimi.e0521f6b42a1f30be8f7.png",
+    "static/media/zayden.jpg": "/Classroom-Pair-Generator/static/media/zayden.9ca900512dba17c6e0d9.jpg",
     "static/media/alina.jpg": "/Classroom-Pair-Generator/static/media/alina.adc2ef68964f969d5472.jpg",
     "static/media/japrabaav.jpg": "/Classroom-Pair-Generator/static/media/japrabaav.5f4a8027caab5a4307cc.jpg",
     "static/media/olivia.jpg": "/Classroom-Pair-Generator/static/media/olivia.76a09e04e7480d21d234.jpg",
@@ -22,11 +23,11 @@
     "static/media/shania.jpg": "/Classroom-Pair-Generator/static/media/shania.78513510698cff859d38.jpg",
     "index.html": "/Classroom-Pair-Generator/index.html",
     "main.a6e44604.css.map": "/Classroom-Pair-Generator/static/css/main.a6e44604.css.map",
-    "main.f357d917.js.map": "/Classroom-Pair-Generator/static/js/main.f357d917.js.map",
+    "main.7052acc5.js.map": "/Classroom-Pair-Generator/static/js/main.7052acc5.js.map",
     "787.aa6b9366.chunk.js.map": "/Classroom-Pair-Generator/static/js/787.aa6b9366.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6e44604.css",
-    "static/js/main.f357d917.js"
+    "static/js/main.7052acc5.js"
   ]
 }
